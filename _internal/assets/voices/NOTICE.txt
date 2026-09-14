@@ -1,0 +1,10 @@
+Female reference: LibriSpeech speaker 121; male evaluation source: speaker 1089.
+Source: https://www.openslr.org/12/
+Archive: https://www.openslr.org/resources/12/test-clean.tar.gz
+Dataset authors: Vassil Panayotov, Guoguo Chen, Daniel Povey, Sanjeev Khudanpur.
+License: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+Changes: two utterances per speaker concatenated, maximum 15 seconds, saved as mono PCM16 WAV.
+Female clips: 121-121726-0004, 121-121726-0000.
+Male clips: 1089-134691-0016, 1089-134691-0000.
+These are human audiobook recordings used as test references, not endorsements.

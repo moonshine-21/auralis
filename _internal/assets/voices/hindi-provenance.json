@@ -1,0 +1,54 @@
+[
+  {
+    "file": "assets\\voices\\hindi-female-01.wav",
+    "dataset": "google/fleurs",
+    "revision": "70bb2e84b976b7e960aa89f1c648e09c59f894dd",
+    "config": "hi_in",
+    "split": "validation",
+    "row": 0,
+    "gender": 1,
+    "original_file": "10003386135529782184.wav",
+    "transcription": "मेजरकेन खाना भूमध्य सागर में समान क्षेत्रों की तरह रोटी सब्जियों और मांस विशेष रूप से सूअर का मांस पर आधारित है और जैतून के तेल का उपयोग करता है।",
+    "sha256": "4c1a530facb18e885987e78af4fe306cc7fe6cc6f3cbfee109ab62ce9cc31798",
+    "seconds": 12.24
+  },
+  {
+    "file": "assets\\voices\\hindi-female-02.wav",
+    "dataset": "google/fleurs",
+    "revision": "70bb2e84b976b7e960aa89f1c648e09c59f894dd",
+    "config": "hi_in",
+    "split": "validation",
+    "row": 12,
+    "gender": 1,
+    "original_file": "10905105795491986941.wav",
+    "transcription": "चर्च के परिसर में कुछ कब्रों पर कबूतरों की संगमरमर से बनाई गई दिलचस्प मूर्तियां हैं",
+    "sha256": "4715931131678aceb714227c571ade29d1e2dd8c70da314c2292c4ff75e039ba",
+    "seconds": 9.84
+  },
+  {
+    "file": "assets\\voices\\hindi-female-03.wav",
+    "dataset": "google/fleurs",
+    "revision": "70bb2e84b976b7e960aa89f1c648e09c59f894dd",
+    "config": "hi_in",
+    "split": "validation",
+    "row": 15,
+    "gender": 1,
+    "original_file": "11106558216578129562.wav",
+    "transcription": "इसके राज्यों के बीच कर कानूनों और शुल्कों को ओवरराइड करने का भी कोई अधिकार नहीं था",
+    "sha256": "096c59f9affe683775e208f5f68862bd9f60357bf299f83b9f6785300edf4b21",
+    "seconds": 7.62
+  },
+  {
+    "file": "tests\\fixtures\\hindi-source.wav",
+    "dataset": "google/fleurs",
+    "revision": "70bb2e84b976b7e960aa89f1c648e09c59f894dd",
+    "config": "hi_in",
+    "split": "validation",
+    "row": 21,
+    "gender": 0,
+    "original_file": "11416316648423711293.wav",
+    "transcription": "ज़्यादातर जिलों में छोटी जापानी कोस्टर बसें चलती हैं जो आरामदायक और मज़बूत होती हैं",
+    "sha256": "b8e8753d9aab739881c251421de467d57f9209cc43cfac52f8f768b6d5b5855f",
+    "seconds": 5.94
+  }
+]

@@ -1,0 +1,10 @@
+RNNoise v0.2 noise suppression, Xiph.Org, BSD (RNNoise-COPYING.txt).
+https://github.com/xiph/rnnoise
+Source commit: 904a876dce1f9ab8860c0a5000ed151f9f6eef58
+Included source: source-v0.2. Windows DLL compiled locally with Zig 0.14.1,
+-O3, x86_64 baseline/SSE2, without fast-math. Rebuild: packaging/build_noise.py.
+Zig/MinGW license notices are included for the compiler runtime components.
+Pretrained model archive: https://media.xiph.org/rnnoise/models/rnnoise_data-0b50c45.tar.gz
+Archive SHA256: 4ac81c5c0884ec4bd5907026aaae16209b7b76cd9d7f71af582094a2f98f4b43
+Generated rnnoise_data.c/h and the pretrained weights are included.
+This is not a new model trained by Auralis.
